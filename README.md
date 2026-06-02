@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hey there, I'm Wiktoria! 
+# Hey there, I'm Wiktoria!
 
-###  IT Student ·  Python Developer ·  ML Enthusiast
+### IT Student · Python Developer · ML Enthusiast
 
 [![Email](https://img.shields.io/badge/Email-wiktoriasmulska0@gmail.com-6366f1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27)](mailto:wiktoriasmulska0@gmail.com)
 
@@ -10,18 +10,18 @@
 
 ---
 
-## 🧬 About Me
+## About Me
 
 I'm a fourth-year **Computer Science** student at the **Silesian University of Technology** in Poland, with a strong focus on **machine learning**, **deep learning**, and **data-driven applications**. I love transforming raw data into meaningful insights and building intelligent systems that solve real-world problems.
 
-- 🔬 Passionate about **medical AI** — applying deep learning to healthcare challenges
-- 📊 Experienced in **end-to-end ML pipelines** — from data preprocessing to model evaluation
-- 🏗️ Building well-structured **Python applications** with clean architecture and thorough testing
-- 🌱 Currently exploring **neural networks for dynamical system identification**
+- Passionate about **medical AI** — applying deep learning to healthcare challenges
+- Experienced in **end-to-end ML pipelines** — from data preprocessing to model evaluation
+- Building well-structured **Python applications** with clean architecture and thorough testing
+- Currently exploring **neural networks for dynamical system identification**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -57,9 +57,9 @@ I'm a fourth-year **Computer Science** student at the **Silesian University of T
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🧠 [Alzheimer's MRI Classification](https://github.com/WiktoriaSmulska/alzheimers-mri-analysis)
+### [Alzheimer's MRI Classification](https://github.com/WiktoriaSmulska/alzheimers-mri-analysis)
 > Deep learning pipeline for classifying Alzheimer's disease stages from brain MRI scans
 
 - Built a **custom CNN** (Convolutional Neural Network) with **PyTorch** for multi-class image classification
@@ -71,7 +71,7 @@ I'm a fourth-year **Computer Science** student at the **Silesian University of T
 
 ---
 
-### 💉 [Stroke Prediction Model](https://github.com/WiktoriaSmulska/StrokePredictionModel)
+### [Stroke Prediction Model](https://github.com/WiktoriaSmulska/StrokePredictionModel)
 > Neural network for predicting stroke likelihood based on patient health records
 
 - Designed a **feed-forward neural network** for binary classification using **PyTorch**
@@ -83,7 +83,7 @@ I'm a fourth-year **Computer Science** student at the **Silesian University of T
 
 ---
 
-### 📦 [ParcelLocker — Smart Delivery System](https://github.com/WiktoriaSmulska/ParcelLocker)
+### [ParcelLocker — Smart Delivery System](https://github.com/WiktoriaSmulska/ParcelLocker)
 > Full-stack parcel management application with AI voice control and email notifications
 
 - Architected a **layered system** with Repository pattern, validators, converters, and service layer
@@ -96,38 +96,13 @@ I'm a fourth-year **Computer Science** student at the **Silesian University of T
 
 ---
 
-### 🔄 [Neural Networks for Dynamic Systems](https://github.com/WiktoriaSmulska/Neural-networks-in-the-identification-of-dynamic-systems)
+### [Neural Networks for Dynamic Systems](https://github.com/WiktoriaSmulska/Neural-networks-in-the-identification-of-dynamic-systems)
 > Using neural networks for identification and modeling of dynamical systems
 
 `Python` `PyTorch` `Time Series` `Dynamical Systems`
 
 ---
 
-## 📈 GitHub Stats
-
 <div align="center">
-
-![WiktoriaSmulska's GitHub stats](https://github-readme-stats.vercel.app/api?username=WiktoriaSmulska&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6366f1&icon_color=6366f1&text_color=a9b1d6)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WiktoriaSmulska&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6366f1&text_color=a9b1d6)
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-💬 I'm always open to collaborating on **machine learning projects**, **data science challenges**, or anything **Python**-related!
-
-[![Email](https://img.shields.io/badge/📧_Email_Me-6366f1?style=for-the-badge&labelColor=1a1b27)](mailto:wiktoriasmulska0@gmail.com)
-[![GitHub](https://img.shields.io/badge/🐙_Follow_Me-1a1b27?style=for-the-badge&labelColor=1a1b27)](https://github.com/WiktoriaSmulska)
-
-</div>
-
----
-
-<div align="center">
-  <sub>⭐ From <a href="https://github.com/WiktoriaSmulska">WiktoriaSmulska</a> — Silesian University of Technology, Poland 🇵🇱</sub>
+  <sub>From <a href="https://github.com/WiktoriaSmulska">WiktoriaSmulska</a> — Silesian University of Technology, Poland</sub>
 </div>
