@@ -4,7 +4,6 @@
 
 ###  IT Student ·  Python Developer ·  ML Enthusiast
 
-[![GitHub followers](https://img.shields.io/github/followers/WiktoriaSmulska?style=for-the-badge&logo=github&labelColor=1a1b27&color=6366f1)](https://github.com/WiktoriaSmulska?tab=followers)
 [![Email](https://img.shields.io/badge/Email-wiktoriasmulska0@gmail.com-6366f1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27)](mailto:wiktoriasmulska0@gmail.com)
 
 </div>
