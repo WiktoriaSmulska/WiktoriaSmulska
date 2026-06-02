@@ -14,7 +14,7 @@
 
 I'm a fourth-year **Computer Science** student at the **Silesian University of Technology** in Poland, with a strong focus on **machine learning**, **deep learning**, and **data-driven applications**. I love transforming raw data into meaningful insights and building intelligent systems that solve real-world problems.
 
-- Passionate about **medical AI** — applying deep learning to healthcare challenges
+- Passionate about **AI** — applying deep learning to challenges
 - Experienced in **end-to-end ML pipelines** — from data preprocessing to model evaluation
 - Building well-structured **Python applications** with clean architecture and thorough testing
 - Currently exploring **neural networks for dynamical system identification**
